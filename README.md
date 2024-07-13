@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=c0c0c0&text=Welcome%20to%20@dkfvkzk0&section=header" />
 
-<!--
-**dkfvkzk0/dkfvkzk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🙃 Interests
+&nbsp;
+<center><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> </a></center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkfvkzk0&theme=graywhite)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkfvkzk0&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+
